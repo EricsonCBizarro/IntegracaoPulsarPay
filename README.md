@@ -1,2 +1,2 @@
 # IntegracaoPulsarPay
-Exemplo de integração com php com o sistema PulsarPay
+Exemplo de integração usando php para o sistema PulsarPay
